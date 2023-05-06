@@ -29,17 +29,7 @@ npm start
 
 This will start the server on `http://localhost:3000`.
 
-## API Endpoints
 
-The following endpoints are available:
-
-- `GET /polls`: Retrieve a list of all polls.
-- `POST /polls`: Create a new poll.
-- `GET /polls/:id`: Retrieve a poll by its ID.
-- `PUT /polls/:id`: Update a poll by its ID.
-- `DELETE /polls/:id`: Delete a poll by its ID.
-
-For more information on how to use each endpoint, see the web API's documentation.
 
 ## Contributing
 
